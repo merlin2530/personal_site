@@ -1,0 +1,72 @@
+h1{  color: white;
+      font-family: arial, helevetica, comic sans;
+      font-size: 20px;
+      text-align: center;
+}
+
+h2{ color: white;
+    font-family: arial, helevetica, comic sans;
+    font-size: 16px;
+    text-align: center;
+    padding: 1;
+    weight: 1;
+    height: 1;
+    margin: 1;
+}
+
+.darker{ color: rgb(175,64,129);
+}
+
+h3{
+<!-- Did I even use this?  !-->
+}
+
+h4{ font-size: 12 px;
+}
+
+.greyscale{ color: darkgrey;
+}
+
+h5{  color:darkgrey;
+     font-size: 14px;
+}
+
+.bigfont{ 
+      font-size:30px;
+} 
+
+.smallfont{
+      font-size:16px;
+}
+
+.text-centered{
+  text-align: center;
+}
+
+.dark-background{
+  background-color: rgba(44, 10, 10, 0.767);
+  color: white;
+}
+
+.light-background{
+  background-color: #c8d2e0;
+  color: #1E1E1E;
+}
+
+.wrapper{
+  width: 300px;
+  margin: auto;
+}
+
+a:link{color: purple;
+
+}
+a:visited{color: rgb(197, 8, 197);
+
+}
+a:hover{color: rgb(72, 26, 77);
+
+}
+a:active{color: black;
+
+}
