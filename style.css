@@ -14,6 +14,11 @@ h2{ color: white;
     margin: 1;
 }
 
+/* Define and use h3 */
+h3{
+
+}
+
 ul {  list-style-type: circle;
       margin: 0;
       padding: 0;
@@ -23,10 +28,6 @@ ul {  list-style-type: circle;
 }
 
 .centered1{ text-align: center;
-}
-
-h3{
-<!-- Did I even use this?  !-->
 }
 
 h4{ font-size: 12 px;
@@ -65,7 +66,7 @@ h5{  color:darkgrey;
   width: 300px;
   margin: auto;
 }
-
+ /~ RE-think colors */
 a:link{color: purple;
 
 }
