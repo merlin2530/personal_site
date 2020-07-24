@@ -14,7 +14,9 @@ h2{ color: white;
     margin: 1;
 }
 
-ul{ list-style-type: circle;
+ul {  list-style-type: circle;
+      margin: 0;
+      padding: 0;
 }
 
 .darker{ color: rgb(175,64,129);
