@@ -13,16 +13,11 @@ h2{ color: white;
     height: 1;
     margin: 1;
 }
-body {
-      
-}
-
-.color {background-color: 63800F;
-}
 
 /* Define and use h3 */
-h3{
-
+h3{ text-align: center;
+    font-style: underline;
+      font-size: 17px;
 }
 
 ul {  list-style-type: circle;
