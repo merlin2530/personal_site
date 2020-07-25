@@ -9,9 +9,9 @@ h2{ font-color: white;
     font-family: helevetica, comic sans, arial;
     font-size: 16px;
     text-align: center;
-    padding: 1;
-    height: 1;
-    margin: 1;
+    height: auto;
+    paddin:: 1px;
+    margin: 5px;
 }
 
 h3{ text-align: center;
