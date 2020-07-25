@@ -1,3 +1,4 @@
+/* The h's */
 h1{  color: white;
      font-family: arial, helevetica, comic sans;
      font-size: 20px;
@@ -13,21 +14,9 @@ h2{ font-color: white;
     margin: 1;
 }
 
-/* Define and use h3 */
 h3{ text-align: center;
     text-style: underline;
     font-size: 17px;
-}
-
-ul {  list-style-type: circle;
-      margin: 0;
-      padding: 0;
-}
-
-.darker{ color: rgb(175,64,129);
-}
-
-.centered1{ text-align: center;
 }
 
 h4{ font-size: 12px;
@@ -56,6 +45,19 @@ h5{  color:grey;
   text-align: center;
 }
 
+/* Un-ordered list styling */
+ul {  list-style-type: circle;
+      margin: 0;
+      padding: 0;
+}
+
+.darker{ color: rgb(175,64,129);
+}
+
+.centered1{ text-align: center;
+}
+
+/* Classes to alow shading */
 .dark-background{
   background-color: rgba(44, 10, 10, 0.767);
   color: white;
@@ -70,7 +72,8 @@ h5{  color:grey;
   width: 300px;
   margin: auto;
 }
- /~ RE-think colors */
+
+ /~ Link colors */
 a:link{color: purple;
 
 }
