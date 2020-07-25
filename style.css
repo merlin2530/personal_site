@@ -1,11 +1,11 @@
 h1{  color: white;
-      font-family: arial, helevetica, comic sans;
-      font-size: 20px;
-      text-align: center;
+     font-family: arial, helevetica, comic sans;
+     font-size: 20px;
+     text-align: center;
 }
 
-h2{ color: white;
-    font-family: arial, helevetica, comic sans;
+h2{ font-color: white;
+    font-family: helevetica, comic sans, arial;
     font-size: 16px;
     text-align: center;
     padding: 1;
@@ -17,7 +17,7 @@ h2{ color: white;
 /* Define and use h3 */
 h3{ text-align: center;
     text-style: underline;
-      font-size: 17px;
+    font-size: 17px;
 }
 
 ul {  list-style-type: circle;
@@ -31,13 +31,13 @@ ul {  list-style-type: circle;
 .centered1{ text-align: center;
 }
 
-h4{ font-size: 12 px;
+h4{ font-size: 12px;
 }
 
 .greyscale{ color: darkgrey;
 }
 
-h5{  color:darkgrey;
+h5{  color:grey;
      font-size: 14px;
 }
 
