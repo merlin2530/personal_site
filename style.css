@@ -16,7 +16,7 @@ h2{ color: white;
 
 /* Define and use h3 */
 h3{ text-align: center;
-    font-style: underline;
+    text-style: underline;
       font-size: 17px;
 }
 
