@@ -50,6 +50,9 @@ ul {  list-style-type: circle;
       padding: 0;
 }
 
+.styled{ list-style-type: diamond;
+}
+
 .darker{ color: rgb(175,64,129);
 }
 
