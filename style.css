@@ -3,25 +3,27 @@ h1{  color: white;
      font-family: arial, helevetica, comic sans;
      font-size: 20px;
      text-align: center;
+     padding: 5px;
 }
 
 h2{ font-family: helevetica, comic sans, arial;
     font-size: 16px;
     text-align: center;
     height: auto;
-    paddin:: 1px;
-    margin: 5px;
+    padding: 5px;
+    margin: 2px;
 }
 
 h3{ text-align: center;
     text-style: underline;
     font-size: 17px;
+    padding: 5px;
 }
 
 h4{ font-size: 20px;
     font-weight: bold;
-    padding: 1px;
-    margin: 5px;
+    padding: 5px;
+    margin: 2px;
     height: auto;
 }
 
@@ -46,8 +48,8 @@ h5{  color:grey;
 
 /* Un-ordered list styling */
 ul {  list-style-type: circle;
-      margin: 0;
-      padding: 0;
+      margin: 2px;
+      padding: 5px;
 }
 
 .styled{ list-style-type: diamond;
@@ -59,7 +61,7 @@ ul {  list-style-type: circle;
 .centered1{ text-align: center;
 }
 
-/* Classes to alow shading */
+/* Classes to allow shading */
 .dark-background{
   background-color: rgba(44, 10, 10, 0.767);
   color: white;
